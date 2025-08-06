@@ -80,5 +80,5 @@ This project repository includes the following documents, generated to guide dev
 
 ---
 
-*This roadmap was generated using AI workflow automation. Last updated: 7/19/2025*
+*This roadmap was generated using https://www.initrepo.com - Last updated: 8/6/2025*
 ```
